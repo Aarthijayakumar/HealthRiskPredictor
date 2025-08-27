@@ -53,11 +53,9 @@ Run the application
 
 java HealthRiskPredictorGUI
 
-📸 Screenshots (optional)
 
-👉 You can add your app screenshots here:
-
-![App Screenshot](images/screenshot1.png)
+(<img width="1915" height="1016" alt="Screenshot 2025-08-18 222302" src="https://github.com/user-attachments/assets/b10b4028-32d6-4e9e-9284-d6434cd1280c" />
+)
 
 🔮 Future Improvements
 
